@@ -1,0 +1,38 @@
+## Sensores
+* Acelerómetro
+* Giroscopio
+* Humedad
+* Temperatura
+* Presión Atmosférica dentro del globo
+* Presión Atmosférica exterior
+* Expulsión de paracaídas
+* Estado de Batería
+* Corriente en Batería
+* GPS
+* Estado de Batería de Cámara
+
+## Comunicaciones
+* Enlace Inalámbrico bidireccional RF
+* Enlace Inalámbrico Celular GPRS
+
+## CPU
+* Arduino Mega
+* RTC Real Time Clock
+* Almacenamiento SD
+
+## Control
+* Control de disparo de cámara
+* Control de On/Off de cámara
+* Control de comunicaciones internas
+* Expulsión de globo
+* Expulsión de paracaídas
+
+## Cámara
+* Cámara digital 12MPx
+* Enfoque automático
+* Balance de Blancos
+* Almacenamiento SD
+
+## Mecánica
+* Separación de Globo
+* Expulsión de Paracaídas
