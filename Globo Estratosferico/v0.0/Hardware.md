@@ -1,3 +1,4 @@
+
 ## Sensores
 * Acelerómetro X, Y, Z
 * Giroscopio X, Y, Z
@@ -17,7 +18,6 @@
 
 ## CPU
 * Arduino Mega
-* RTC Real Time Clock
 * Almacenamiento SD
 
 ## Control
