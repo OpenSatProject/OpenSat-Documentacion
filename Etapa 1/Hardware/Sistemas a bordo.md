@@ -1,6 +1,6 @@
 # Sistemas a Bordo
 
-![](https://github.com/OpenSatProject/OpenSat-Documentacion/blob/master/Etapa%201/Hardware/v0.3.png)
+![](https://github.com/OpenSatProject/OpenSat-Documentacion/blob/master/Etapa%201/Hardware/v0.4.png)
 
 ## Computadora de Energía
 *	Monitoreo de individual de estado de baterías
