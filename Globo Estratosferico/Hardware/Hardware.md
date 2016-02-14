@@ -1,3 +1,7 @@
+## v0.3
+* Corregido - GPS a computadora de métrica
+* Agregado - Computadora de Comunicaciones Internas
+
 ## v0.2
 * Corregido - RTC a computadora de métrica
 
