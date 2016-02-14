@@ -54,7 +54,7 @@
 * Transmicion de datos en tiempo real
 * Consulta interna de datos para sistemas a bordo
 
-### Monitoreo Atmosferico
+#### Monitoreo Atmosferico
 * Temperatura Interior
 * Temperatura Exterior
 * Barometro Interior del globo
@@ -62,17 +62,24 @@
 * Humedad Interior
 * Humedad Exterior
 
-### Monitoreo Fisico
+#### Monitoreo Fisico
 * Acelerometro X Y Z
 * Giroscopio X Y Z
 
-### Monitoreo de Orientacion
+#### Monitoreo de Orientacion
 * GPS Global Poscicion Sistem
 * Compas Magnetico
 
-### Monitoreo de Tiempo
+#### Monitoreo de Tiempo
 * RTC Real Time Clock
 
+### Computadora de Comunicaciones
+* Control de flujo de datos entre sistemas a bordo
+* Permite hacer puentes de comunicaciones entre dos o varios sistemas
+* Comunicaciones Full Duplex
+* Puentes de comunicaciones independientes y simultaneos
+
+# Notas dobre la version
 
 ## v0.3
 * Corregido - GPS a computadora de métrica
