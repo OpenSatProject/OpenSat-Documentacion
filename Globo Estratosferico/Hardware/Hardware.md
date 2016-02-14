@@ -1,4 +1,5 @@
 # Sistemas a Bordo
+
 ### Computadora de Energia
 * Monitoreo de individual de estado de baterias
 * Monitoreo de corriente individual de baterias
@@ -11,10 +12,12 @@
 * Monitoreo de expulsion de paracaidas
 
 ### Computadora de Telemetria
+
 #### Modulo GSM/GPRS
 * Comunicacion terrestre para recuperacion al desenso
 * Trensmite la ubicacion atravez de la red celular
 * Permite comandos de control y monitoreo
+
 #### Modulo de 900 MHz
 * Comunicacion terreste de telemetria y control
 * Transmicion de imagenes en tiempo real
@@ -22,17 +25,20 @@
 * Transmicion de telemetria en tiempo real
 
 ### Computadora de Imagen
+
 #### Camara VGA TTL a tierra
 * Capta imagenes del estado del glogo al ascenso
 * Capta imagenes del lugar del aterrizaje para recuperacion
 * Almacenamiento de imagenes en memoria interna
 * Transmicion de imagenes en tiempo real
+
 #### Camara VGA TTL Movil
 * Capta imagenes del exterior
 * Movimiento en tiempo real X Y
 * Transmicion de imagenes en tiempo real
 * Almacenamiento de imagenes en memoria interna
 * Para referencia de imagenes de GoPro
+
 #### Camara GoPro
 * Almacenamiento de imagenes en memoria interna
 * Movimiento en tiempo real X Y
@@ -40,7 +46,32 @@
 * Captura en tiempo lapsado
 * Bateria individual 
 * Alimentacion externa
-### Computadora de Metriaca
+
+### Computadora de Metrica
+* Monitoreo de sensores
+* Calculo de datos sensados
+* Almacenamiento de datos en logger
+* Transmicion de datos en tiempo real
+* Consulta interna de datos para sistemas a bordo
+
+### Monitoreo Atmosferico
+* Temperatura Interior
+* Temperatura Exterior
+* Barometro Interior del globo
+* Barometro Exterior
+* Humedad Interior
+* Humedad Exterior
+
+### Monitoreo Fisico
+* Acelerometro X Y Z
+* Giroscopio X Y Z
+
+### Monitoreo de Orientacion
+* GPS Global Poscicion Sistem
+* Compas Magnetico
+
+### Monitoreo de Tiempo
+* RTC Real Time Clock
 
 
 ## v0.3
