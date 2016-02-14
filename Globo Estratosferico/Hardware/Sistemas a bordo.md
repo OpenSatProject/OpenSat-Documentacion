@@ -10,6 +10,7 @@
 *	Monitoreo de expulsión de globo
 *	Mecánica para expulsar el paracaídas
 *	Monitoreo de expulsión de paracaídas
+*	Reinicio de sistemas
 
 ## Computadora de Telemetría
 
