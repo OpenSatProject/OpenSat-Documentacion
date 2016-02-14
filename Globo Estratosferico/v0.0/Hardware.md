@@ -1,5 +1,11 @@
+## v0.2
+* Corregido - RTC a computadora de métrica
 
-## Sensores
+## v0.1
+* Agregado - RTC a computadora de comunicaciones
+
+## v0.0
+#### Sensores
 * Acelerómetro X, Y, Z
 * Giroscopio X, Y, Z
 * Humedad
@@ -11,28 +17,28 @@
 * Corriente en Batería
 * Estado de Batería de Cámara
 
-## Comunicaciones
+#### Comunicaciones
 * Enlace Inalámbrico bidireccional RF
 * Enlace Inalámbrico Celular GPRS
 * GPS
 
-## CPU
+#### CPU
 * Arduino Mega
 * Almacenamiento SD
 
-## Control
+#### Control
 * Control de disparo de cámara
 * Control de On/Off de cámara
 * Control de comunicaciones internas
 * Expulsión de globo
 * Expulsión de paracaídas
 
-## Cámara
+#### Cámara
 * Cámara digital 12MPx
 * Enfoque automático
 * Balance de Blancos
 * Almacenamiento SD
 
-## Mecánica
+#### Mecánica
 * Separación de Globo
 * Expulsión de Paracaídas
