@@ -20,14 +20,14 @@
 *	Comunicación terrestre para recuperación al descenso
 *	Transmite la ubicación atreves de la red celular
 *	Permite comandos de control y monitoreo
-*	Comunicacion Bidireccional
+*	Comunicación Bidireccional
 
 #### Modulo 900 MHz
 *	Comunicación terrestre de telemetría y control
 *	Transmisión de imágenes en tiempo real
 *	Control y monitoreo de los sistemas a bordo
 *	Transmisión de telemetría en tiempo real
-*	Comunicacion Bidireccional
+*	Comunicación Bidireccional
 
 ## Computadora de Imagen
 
@@ -54,7 +54,7 @@
 
 ## Computadora de Métrica
 *	Monitoreo de sensores
-*	Calculo de datos censados
+*	Calculo de datos registrados
 *	Almacenamiento de datos en logger
 *	Transmisión de datos en tiempo real
 *	Consulta interna de datos para sistemas a bordo
@@ -77,6 +77,7 @@
 
 #### Monitoreo de Tiempo
 *	RTC Real Time Clock
+*	Alimenta el logger con la variable de tiempo
 
 ## Computadora de Comunicaciones
 *	Control de flujo de datos entre sistemas a bordo
