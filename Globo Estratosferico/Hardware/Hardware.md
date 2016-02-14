@@ -17,12 +17,14 @@
 *	Comunicación terrestre para recuperación al descenso
 *	Transmite la ubicación atreves de la red celular
 *	Permite comandos de control y monitoreo
+*	Comunicacion Bidireccional
 
 #### Modulo de 900 MHz
 *	Comunicación terrestre de telemetría y control
 *	Transmisión de imágenes en tiempo real
 *	Control y monitoreo de los sistemas a bordo
 *	Transmisión de telemetría en tiempo real
+*	Comunicacion Bidireccional
 
 ## Computadora de Imagen
 
