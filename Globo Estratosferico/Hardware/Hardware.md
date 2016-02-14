@@ -1,85 +1,85 @@
 # Sistemas a Bordo
 
-### Computadora de Energia
-* Monitoreo de individual de estado de baterias
-* Monitoreo de corriente individual de baterias
-* Control de carga individual de baterias
-* Conmutacion de carga para dispositivos
-* Faro marcador
-* Mecanica para expulsar el globo
-* Monitoreo de expulsion de globo
-* Mecanica para expulsar el paracaidas
-* Monitoreo de expulsion de paracaidas
+## Computadora de Energía
+*	Monitoreo de individual de estado de baterías
+*	Monitoreo de corriente individual de baterías
+*	Control de carga individual de baterías
+*	Conmutación de carga para dispositivos
+*	Faro marcador
+*	Mecánica para expulsar el globo
+*	Monitoreo de expulsión de globo
+*	Mecánica para expulsar el paracaídas
+*	Monitoreo de expulsión de paracaídas
 
-### Computadora de Telemetria
+## Computadora de Telemetría
 
 #### Modulo GSM/GPRS
-* Comunicacion terrestre para recuperacion al desenso
-* Trensmite la ubicacion atravez de la red celular
-* Permite comandos de control y monitoreo
+*	Comunicación terrestre para recuperación al descenso
+*	Transmite la ubicación atreves de la red celular
+*	Permite comandos de control y monitoreo
 
 #### Modulo de 900 MHz
-* Comunicacion terreste de telemetria y control
-* Transmicion de imagenes en tiempo real
-* Control y monitoreo de los sistemas a bordo
-* Transmicion de telemetria en tiempo real
+*	Comunicación terrestre de telemetría y control
+*	Transmisión de imágenes en tiempo real
+*	Control y monitoreo de los sistemas a bordo
+*	Transmisión de telemetría en tiempo real
 
-### Computadora de Imagen
+## Computadora de Imagen
 
-#### Camara VGA TTL a tierra
-* Capta imagenes del estado del glogo al ascenso
-* Capta imagenes del lugar del aterrizaje para recuperacion
-* Almacenamiento de imagenes en memoria interna
-* Transmicion de imagenes en tiempo real
+#### Cámara VGA TTL a tierra
+*	Capta imágenes del estado del globo al ascenso
+*	Capta imágenes del lugar del aterrizaje para recuperación
+*	Almacenamiento de imágenes en memoria interna
+*	Transmisión de imágenes en tiempo real
 
-#### Camara VGA TTL Movil
-* Capta imagenes del exterior
-* Movimiento en tiempo real X Y
-* Transmicion de imagenes en tiempo real
-* Almacenamiento de imagenes en memoria interna
-* Para referencia de imagenes de GoPro
+#### Cámara VGA TTL Móvil
+*	Capta imágenes del exterior
+*	Movimiento en tiempo real X Y
+*	Transmisión de imágenes en tiempo real
+*	Almacenamiento de imágenes en memoria interna
+*	Para referencia de imágenes de GoPro
 
-#### Camara GoPro
-* Almacenamiento de imagenes en memoria interna
-* Movimiento en tiempo real X Y
-* Imagenes en alta resolucion
-* Captura en tiempo lapsado
-* Bateria individual 
-* Alimentacion externa
+#### Cámara GoPro
+*	Almacenamiento de imágenes en memoria interna
+*	Movimiento en tiempo real X Y
+*	Imágenes en alta resolución
+*	Captura en tiempo lapsado
+*	Batería individual
+*	Alimentación externa
 
-### Computadora de Metrica
-* Monitoreo de sensores
-* Calculo de datos sensados
-* Almacenamiento de datos en logger
-* Transmicion de datos en tiempo real
-* Consulta interna de datos para sistemas a bordo
+## Computadora de Métrica
+*	Monitoreo de sensores
+*	Calculo de datos censados
+*	Almacenamiento de datos en logger
+*	Transmisión de datos en tiempo real
+*	Consulta interna de datos para sistemas a bordo
 
-#### Monitoreo Atmosferico
-* Temperatura Interior
-* Temperatura Exterior
-* Barometro Interior del globo
-* Barometro Exterior
-* Humedad Interior
-* Humedad Exterior
+#### Monitoreo Atmosférico
+*	Temperatura Interior
+*	Temperatura Exterior
+*	Barómetro Interior del globo
+*	Barómetro Exterior
+*	Humedad Interior
+*	Humedad Exterior
 
-#### Monitoreo Fisico
-* Acelerometro X Y Z
-* Giroscopio X Y Z
+#### Monitoreo Físico
+*	Acelerómetro X Y Z
+*	Giroscopio X Y Z
 
-#### Monitoreo de Orientacion
-* GPS Global Poscicion Sistem
-* Compas Magnetico
+#### Monitoreo de Orientación
+*	GPS Sistema de Posicionamiento Global
+*	Compas Magnético
 
 #### Monitoreo de Tiempo
-* RTC Real Time Clock
+*	RTC Real Time Clock
 
-### Computadora de Comunicaciones
-* Control de flujo de datos entre sistemas a bordo
-* Permite hacer puentes de comunicaciones entre dos o varios sistemas
-* Comunicaciones Full Duplex
-* Puentes de comunicaciones independientes y simultaneos
+## Computadora de Comunicaciones
+*	Control de flujo de datos entre sistemas a bordo
+*	Permite hacer puentes de comunicaciones entre dos o varios sistemas
+*	Comunicaciones Full Duplex
+*	Puentes de comunicaciones independientes y simultáneos
 
-# Notas dobre la version
+# Notas sobre la versión
 
 ## v0.3
 * Corregido - GPS a computadora de métrica
