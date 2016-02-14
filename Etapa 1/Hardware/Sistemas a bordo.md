@@ -8,10 +8,12 @@
 *	Control de carga individual de baterías
 *	Conmutación de carga para dispositivos
 *	Faro marcador
-*	Mecánica para expulsar el globo
-*	Monitoreo de expulsión de globo
+*	Mecánica para separar el globo
+*	Monitoreo de separación de globo
 *	Mecánica para expulsar el paracaídas
 *	Monitoreo de expulsión de paracaídas
+*	Mecanica para separación de paracaidas
+*	Mecanica para expulsion de Helio del globo
 *	Reinicio de sistemas
 
 ## Computadora de Telemetría
@@ -62,10 +64,13 @@
 #### Monitoreo Atmosférico
 *	Temperatura Interior
 *	Temperatura Exterior
-*	Barómetro Interior del globo
 *	Barómetro Exterior
 *	Humedad Interior
 *	Humedad Exterior
+
+#### Monitoreo de Globo
+* Telemetro al interior del globo para medir la expancion del globo
+* Barómetro al Interior del globo
 
 #### Monitoreo Físico
 *	Acelerómetro X Y Z
