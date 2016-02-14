@@ -19,7 +19,7 @@
 *	Permite comandos de control y monitoreo
 *	Comunicacion Bidireccional
 
-#### Modulo de 900 MHz
+#### Modulo 900 MHz
 *	Comunicación terrestre de telemetría y control
 *	Transmisión de imágenes en tiempo real
 *	Control y monitoreo de los sistemas a bordo
