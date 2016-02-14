@@ -1,3 +1,26 @@
+# Sistemas a Bordo
+### Computadora de Energia
+* Monitoreo de individual de estado de baterias
+* Monitoreo de corriente individual de baterias
+* Control de carga individual de baterias
+* Conmutacion de carga para dispositivos
+* Faro marcador
+* Mecanica para expulsar el globo
+* Monitoreo de expulsion de globo
+* Mecanica para expulsar el paracaidas
+* Monitoreo de expulsion de paracaidas
+
+### Computadora de Telemetria
+## Modulo GSM/GPRS
+* Comunicacion terrestre para recuperacion al desenso
+* Trensmite la ubicacion atravez de la red celular
+* Permite comandos de control y monitoreo
+## Modulo de 900 MHz
+* Comunicacion terreste de telemetria y control
+* Transmicion de imagenes en tiempo real
+* Control y monitoreo de los sistemas a bordo
+* 
+
 ## v0.3
 * Corregido - GPS a computadora de métrica
 * Agregado - Computadora de Comunicaciones Internas
