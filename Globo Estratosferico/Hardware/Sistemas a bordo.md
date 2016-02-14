@@ -1,5 +1,7 @@
 # Sistemas a Bordo
 
+![](https://github.com/OpenSatProject/OpenSat-Documentacion/blob/master/Globo%20Estratosferico/Hardware/v0.3.png)
+
 ## Computadora de Energía
 *	Monitoreo de individual de estado de baterías
 *	Monitoreo de corriente individual de baterías
