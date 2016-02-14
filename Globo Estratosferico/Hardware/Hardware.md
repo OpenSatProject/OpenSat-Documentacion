@@ -11,15 +11,22 @@
 * Monitoreo de expulsion de paracaidas
 
 ### Computadora de Telemetria
-## Modulo GSM/GPRS
+# Modulo GSM/GPRS
 * Comunicacion terrestre para recuperacion al desenso
 * Trensmite la ubicacion atravez de la red celular
 * Permite comandos de control y monitoreo
-## Modulo de 900 MHz
+# Modulo de 900 MHz
 * Comunicacion terreste de telemetria y control
 * Transmicion de imagenes en tiempo real
 * Control y monitoreo de los sistemas a bordo
-* 
+* Transmicion de telemetria en tiempo real
+
+### Computadora de Imagen
+# Camara VGA TTL a tierra
+* Capta imagenes del estado del glogo al ascenso
+* Capta imagenes del lugar del aterrizaje para recuperacion
+* Almacenamiento de imagenes en memoria interna
+* Transmicion de imagenes a tierra
 
 ## v0.3
 * Corregido - GPS a computadora de métrica
