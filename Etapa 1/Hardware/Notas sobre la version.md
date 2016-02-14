@@ -1,5 +1,10 @@
 # Notas sobre la versión
 
+## v0.4
+* Agregado - mecanica de expulción de Helio del globo
+* Agregado - Telemetro para medir la expancion del globo
+* Agregado - mecanica para separacion de paracaidas
+
 ## v0.3
 * Corregido - GPS a computadora de métrica
 * Agregado - Computadora de Comunicaciones Internas
